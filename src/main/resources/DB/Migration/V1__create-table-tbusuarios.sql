@@ -1,0 +1,10 @@
+CREATE TABLE tbusuario (
+    id INT NOT NULL AUTO_INCREMENT,
+    data_de_nascimento VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL UNIQUE,
+    nome VARCHAR(255) NOT NULL,
+    ra VARCHAR(255) NOT NULL UNIQUE,
+    senha VARCHAR(255) NOT NULL,
+    telefone VARCHAR(255) NOT NULL,
+    PRIMARY KEY (id)
+) ENGINE=InnoDB;

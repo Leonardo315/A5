@@ -1,0 +1,16 @@
+create table tbbicileta (id integer not null auto_increment, numero_de_serie integer not null, marca varchar(255), modelo varchar(255), primary key (id)) engine=InnoDB;
+create table tb_usuario (id integer not null auto_increment, data_de_nascimento varchar(255), email varchar(255), nome varchar(255), ra varchar(255), senha varchar(255), telefone varchar(255), primary key (id)) engine=InnoDB;
+create table tbbicileta (id integer not null auto_increment, numero_de_serie integer not null, marca varchar(255), modelo varchar(255), primary key (id)) engine=InnoDB;
+create table tbusuario (id integer not null auto_increment, data_de_nascimento varchar(255), email varchar(255), nome varchar(255), ra varchar(255), senha varchar(255), telefone varchar(255), primary key (id)) engine=InnoDB;
+create table tbbicileta (id integer not null auto_increment, numero_de_serie integer not null, marca varchar(255), modelo varchar(255), primary key (id)) engine=InnoDB;
+create table tbusuario (id integer not null auto_increment, data_de_nascimento varchar(255), email varchar(255), nome varchar(255), ra varchar(255), senha varchar(255), telefone varchar(255), primary key (id)) engine=InnoDB;
+create table tbbicileta (id integer not null auto_increment, numero_de_serie integer not null, marca varchar(255), modelo varchar(255), primary key (id)) engine=InnoDB;
+create table tbusuario (id integer not null auto_increment, data_de_nascimento varchar(255), email varchar(255), nome varchar(255), ra varchar(255), senha varchar(255), telefone varchar(255), primary key (id)) engine=InnoDB;
+create table tbbicileta (id integer not null auto_increment, numero_de_serie integer not null, marca varchar(255), modelo varchar(255), primary key (id)) engine=InnoDB;
+create table tbusuario (id integer not null auto_increment, data_de_nascimento varchar(255), email varchar(255), nome varchar(255), ra varchar(255), senha varchar(255), telefone varchar(255), primary key (id)) engine=InnoDB;
+create table tbbicileta (id integer not null auto_increment, numero_de_serie integer not null, marca varchar(255), modelo varchar(255), primary key (id)) engine=InnoDB;
+create table tbusuario (id integer not null auto_increment, data_de_nascimento varchar(255), email varchar(255), nome varchar(255), ra varchar(255), senha varchar(255), telefone varchar(255), primary key (id)) engine=InnoDB;
+create table tbbicileta (id integer not null auto_increment, numero_de_serie integer not null, marca varchar(255), modelo varchar(255), primary key (id)) engine=InnoDB;
+create table tbusuario (id integer not null auto_increment, data_de_nascimento varchar(255), email varchar(255), nome varchar(255), ra varchar(255), senha varchar(255), telefone varchar(255), primary key (id)) engine=InnoDB;
+create table tbbicileta (id integer not null auto_increment, numero_de_serie integer not null, marca varchar(255), modelo varchar(255), primary key (id)) engine=InnoDB;
+create table tbusuario (id integer not null auto_increment, data_de_nascimento varchar(255), email varchar(255), nome varchar(255), ra varchar(255), senha varchar(255), telefone varchar(255), primary key (id)) engine=InnoDB;
