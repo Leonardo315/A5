@@ -41,9 +41,6 @@
 
 ![Suíte de testes passando](https://github.com/Leonardo315/A5/blob/main/src/main/resources/EvidenciaTestesPassadosComSucesso.png)
 
----
-
-**Issue**: `AvaliacaoA5`  
-**Branch/PR**: `feature/AvaliacaoA5-tests`  
+--- 
 
 > Todos os casos de teste acima exercitam claramente classes de equivalência e valores-limite, conforme os critérios aprendidos em sala e nos materiais de referência.  
